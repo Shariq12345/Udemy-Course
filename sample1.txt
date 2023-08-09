@@ -1,4 +1,3 @@
-Hello
-World
-New World
-Bye World
+git checkout - rollback the previous changes
+git status - to check the if files are committed or not
+git commit - to commit the files
